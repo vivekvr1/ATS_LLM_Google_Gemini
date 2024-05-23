@@ -27,7 +27,7 @@ The **Smart Resume Match** project aims to assist job seekers in optimizing thei
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/smart-resume-match.git
+   git clone https://github.com/MayurJadhav-1998/smart-resume-match.git
    cd smart-resume-match
    ```
 
