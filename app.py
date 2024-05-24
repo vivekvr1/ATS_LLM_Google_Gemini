@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from csv import reader
 
 load_dotenv()
-genai_key = os.getenv("AIzaSyDfmXP0oYyySBS6Z4gI3Ui8R6Q3wI1keV0")
+genai_key = os.getenv("AIzaSyCZqGktn5MahS-qCtO9Z20Q26rW-1GlPr4")
 genai.configure(api_key=genai_key)
 
 def get_gemini_response(prompt):
